@@ -18,7 +18,7 @@
 - 🌱 I'm actively learning **Full Stack Development**, **AI/ML integration**, and **Cloud Deployment**
 - 💡 I love turning ideas into functional products — from concept to deployment
 - 🚀 I enjoy working with both **frontend UIs** and **backend APIs**
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohansrisaikaruparthi/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohansrisaikaruparthi/)
 ---
 
 ## 🛠️ Tech Stack
